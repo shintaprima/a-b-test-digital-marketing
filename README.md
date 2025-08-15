@@ -1,2 +1,3 @@
-# a-b-test-digital-marketing
-A/B testing learning using digital marketing use case
+# A/B testing in digital marketing
+A/B testing using digital marketing use case, which aims to explore effectiveness of ads compared to public service announcements (PSAs).
+Reference: https://github.com/sumitdeole/A-B-testing-in-digital-marketing
